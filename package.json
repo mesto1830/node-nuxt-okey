@@ -1,0 +1,37 @@
+{
+  "name": "okey",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "core-js": "^3.15.1",
+    "cors": "^2.8.5",
+    "cryptr": "^6.0.2",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "memory-cache": "^0.2.0",
+    "memorystore": "^1.6.6",
+    "moment-timezone": "^0.5.39",
+    "mysql": "^2.18.1",
+    "mysql-connection-pool-manager": "^1.5.9",
+    "nuxt": "^2.15.7",
+    "nuxt-helmet": "^2.0.1",
+    "promise-mysql2": "^1.0.0",
+    "vue-moment": "^4.1.0",
+    "vue2-filters": "^0.13.0"
+  },
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-vue": "^6.2.2",
+    "nodemon": "^2.0.4",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
