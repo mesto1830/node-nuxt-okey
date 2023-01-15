@@ -1,0 +1,30 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-okey/pages/admin/index.vue",
+    "chunkName": "pages/admin/index",
+    "_name": "_526d04e6"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-okey/pages/register.vue",
+    "chunkName": "pages/register",
+    "_name": "_1579b0b8"
+  },
+  {
+    "name": "admin-userlist",
+    "path": "/admin/userlist",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-okey/pages/admin/userlist.vue",
+    "chunkName": "pages/admin/userlist",
+    "_name": "_0f7582fe"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/media/mesto/a7d4deb7-251e-46e3-b60b-31bc36f28a6b/my-works/node-nuxt-okey/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_17a39ae6"
+  }
+]

@@ -16,6 +16,8 @@ async function start() {
   // Give nuxt middleware to express
 
   app.use(nuxt.render)
-  app.listen(4000, '127.1.0.0')
+  app.listen(8000, () => {
+    console.log('Server is running...')
+  })
 }
 start()
